@@ -87,6 +87,8 @@ Used SHAP to explain model decisions:
 ---
 - watch this in youtube 
 
+open index html in browser
+
 
 
 
